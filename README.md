@@ -21,17 +21,8 @@
 <p><a href="https://www.youtube.com/channel/UCQnTdubfZ2GbgxUO8Vh6TkA">YouTube</a></p>
 <hr>
 
-<h3>Academic Details</h3>
+
 <p>3rd Year at Indian Institute of Engineering Science and Technology</p>
-<p>Some Achievements:</p>
-<ul>
-<li>Gold Honour Certificate: International Astronomy and Astrophysics Competition-2022</li>
-<li>Certificate of Excellence, NAEST-2021</li>
-<li>36th rank in IPB (International Physics Brawl)-2021</li>
-<li>IIT JEE-2021-98.87%tile</li>
-<li>NEST-2021-AIR-47</li>
-</ul>
-<hr>
 
 <ul>
         <li><a href="https://www.kaggle.com/datasets/raj123verma/seeds-counting">Kaggle-Original Dataset</a></li>
@@ -41,8 +32,6 @@
 <hr>
 
 
-<p>Check out latest job updates at our platform <a href="https://top108.web.app/">top108.web.app</a></p>
-<hr>
 
 <p>Some memories of 2021-22:</p>
 <ul>
