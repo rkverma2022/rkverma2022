@@ -2,11 +2,11 @@
             margin: 20px;
             padding: 20px;
             background-color: #f5f5f5;">Rajkumar Verma 
- </h1> Developer at Society of Humanity Education and Research</p> 
+ </h1> Developer at Society of Humanity Education and Research </p> 
 
  ![SHER_ROUND](https://github.com/rkverma2022/rkverma2022/assets/112231455/bfb5a503-fa7d-4a28-8a91-f699dc69d3c6)
 
-
+<h4> S.H.E.R IS IN THE PARTNERSHIP WITH MICROSOFT FOR STARTUPS FOUNDERS HUB</h4>
 
 
 <hr>
