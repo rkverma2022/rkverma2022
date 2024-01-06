@@ -1,7 +1,7 @@
 <h1 style="font-family: 'Arial', sans-serif;
             margin: 20px;
             padding: 20px;
-            background-color: #f5f5f5;">Raj Kumar Verma</h1>
+            background-color: #f5f5f5;">Rajkumar Verma</h1>
 <p>Developer at Society of Humanity Education and Research</p>
 <hr>
 
