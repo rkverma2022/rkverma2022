@@ -40,8 +40,8 @@
 </ul>
 <hr>
 
-<h3>Latest Updates</h3>
-<p>Check out my latest job updates on <a href="https://top108.web.app/">top108.web.app</a></p>
+
+<p>Check out latest job updates at our platform <a href="https://top108.web.app/">top108.web.app</a></p>
 <hr>
 
 <p>Some memories of 2021-22:</p>
