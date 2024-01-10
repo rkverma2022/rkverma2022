@@ -41,5 +41,12 @@
         <li>IIT JEE-2021-98.87%tile</li>
         <li>NEST-2021-AIR-47</li>
 </ul>
-<h3>Open Source Contribution </h3>
-<p> <a href="https://github.com/CCExtractor/ultimate_alarm_clock/pull/324"> My first Contribution </a></p>
+<h3>Open Source Contribution : Merged Pull Request </h3>
+<hr>
+<p> <a href="https://github.com/CCExtractor/ultimate_alarm_clock/pull/324"> My first Contribution (New Feature)(Progress) </a></p>
+
+<h3>Open Source Contribution: Issue Creation</h3>
+<hr>
+<p><a href = "https://github.com/CCExtractor/ultimate_alarm_clock/issues/321"> My First Issue Reporting (New Feature)(Done) </a></p>
+
+
