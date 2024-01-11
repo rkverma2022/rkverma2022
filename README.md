@@ -43,10 +43,23 @@
 </ul>
 <h3>Open Source Contribution : Merged Pull Request </h3>
 <hr>
-<p> <a href="https://github.com/CCExtractor/ultimate_alarm_clock/pull/324"> My first Contribution (New Feature)(Progress) </a></p>
+<ol>
+<p> 
+<li>            <a href="https://github.com/CCExtractor/ultimate_alarm_clock/pull/324"> Contribution-1 (New Feature) (InProgress) </a> </li>
+<li> <a href = "https://github.com/rkverma2022/STEAM-Celestial-Satellite-tracker-in-real-time/commit/e71eca3616fad0796efc13f8af6fc283c45f7f13"> Contribution-2(bug) (done)</a></li>
+ <li>           <a href="https://github.com/rkverma2022/STEAM-Celestial-Satellite-tracker-in-real-time/commit/fe1d5a883b81d192f821d34716f50aa058cdc7eb"> Contribution-3(New Feature) (InProgress)</li>
+</ol>
+</p>
+
 
 <h3>Open Source Contribution: Issue Creation</h3>
 <hr>
-<p><a href = "https://github.com/CCExtractor/ultimate_alarm_clock/issues/321"> My First Issue Reporting (New Feature)(Done) </a></p>
+<p>
+<ol>
+           <li> <a href = "https://github.com/CCExtractor/ultimate_alarm_clock/issues/321"> My First Issue Reporting (New Feature)(Done) </a></li>
+            <li><a href = "https://github.com/savitore/STEAM-Celestial-Satellite-tracker-in-real-time/issues/19"> Reporting (Bug) (Done)</a></li>
+            <li><a href = "https://github.com/savitore/STEAM-Celestial-Satellite-tracker-in-real-time/issues/20"> Reporting (Bug) (Done) </a></li>
+</ol>
+</p>
 
 
