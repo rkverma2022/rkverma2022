@@ -63,4 +63,10 @@
 </ol>
 </p>
 
+<h3>Frontend Design Tools</h3>
+<ol><a href = "https://www.figma.com/design/Ce0zp48vEU2FvtEtPJ384I/Figma-basics?node-id=1669-162202&node-type=canvas&t=xY6FZbRm2p3cPuJf-0">Figma</a></ol>
+
+<h3> Frontend Tech Stack</h3>
+<ol><a href = "https://www.typescriptlang.org/docs/">TypeScript</a></ol>
+
 
