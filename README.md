@@ -69,4 +69,6 @@
 <h3> Frontend Tech Stack</h3>
 <ol><a href = "https://www.typescriptlang.org/docs/">TypeScript</a></ol>
 
+<h3>web performance optimization</h3>
+
 
