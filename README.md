@@ -2,10 +2,11 @@
             margin: 20px;
             padding: 20px;
             background-color: #f5f5f5;">Rajkumar Verma 
- </h1> Developer at Society of Humanity Education and Research </p> 
+ </h1> Doing Research in Explainable Artificial Intelligence and Founder of SHER DeepAI Research </p> 
  <a href="https://github.com/S-H-E-R-Development"> Find our open source project - GitHub </a>
  
- ![SHER_ROUND](https://github.com/rkverma2022/rkverma2022/assets/112231455/bfb5a503-fa7d-4a28-8a91-f699dc69d3c6)
+<img width="1884" height="922" alt="image" src="https://github.com/user-attachments/assets/7bb9747b-a3f4-42b2-b474-f802cd7b31d5" />
+
 
 <h4> S.H.E.R IS IN THE PARTNERSHIP WITH MICROSOFT FOR STARTUP FOUNDERS HUB</h4>
 
