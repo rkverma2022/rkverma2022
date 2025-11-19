@@ -3,8 +3,8 @@
             padding: 20px;
             background-color: #f5f5f5;">Rajkumar Verma 
  </h1> Doing Research in Explainable Artificial Intelligence and Founder of SHER DeepAI Research </p> 
- <a href="https://github.com/S-H-E-R-Development"> Find our open source project - GitHub </a>
- 
+
+<img width="1878" height="458" alt="image" src="https://github.com/user-attachments/assets/5ffd5581-8167-4b2b-a53a-7ce3cd73be88" />
 <img width="1884" height="922" alt="image" src="https://github.com/user-attachments/assets/7bb9747b-a3f4-42b2-b474-f802cd7b31d5" />
 <img width="1889" height="889" alt="image" src="https://github.com/user-attachments/assets/d7e8453a-8968-4857-9c8e-c2530289f3bd" />
 <img width="1886" height="925" alt="image" src="https://github.com/user-attachments/assets/d8960e71-9656-48be-bcec-f3428899fa97" />
@@ -32,7 +32,7 @@
 <hr>
 
 
-<p>3rd Year at Indian Institute of Engineering Science and Technology</p>
+<p> Indian Institute of Engineering Science and Technology</p>
 
 
 <hr>
