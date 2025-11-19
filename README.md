@@ -6,16 +6,24 @@
  <a href="https://github.com/S-H-E-R-Development"> Find our open source project - GitHub </a>
  
 <img width="1884" height="922" alt="image" src="https://github.com/user-attachments/assets/7bb9747b-a3f4-42b2-b474-f802cd7b31d5" />
+<img width="1889" height="889" alt="image" src="https://github.com/user-attachments/assets/d7e8453a-8968-4857-9c8e-c2530289f3bd" />
+<img width="1886" height="925" alt="image" src="https://github.com/user-attachments/assets/d8960e71-9656-48be-bcec-f3428899fa97" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91c7eee2-471a-4fa5-b563-4b8a75e5ad01" />
+<img width="1887" height="925" alt="image" src="https://github.com/user-attachments/assets/daa97664-0c3d-4c19-aa2d-9d0f57d421a6" />
+<img width="1876" height="920" alt="image" src="https://github.com/user-attachments/assets/47ff7ee9-36b7-475d-8f29-cb3a89fa4945" />
+<img width="1889" height="923" alt="image" src="https://github.com/user-attachments/assets/8b249f9f-117c-49ed-a712-db09cdc38c69" />
+<img width="1883" height="919" alt="image" src="https://github.com/user-attachments/assets/8f197ea7-7a2c-4d7f-b5f7-a47ad1033fbb" />
+<img width="1914" height="558" alt="image" src="https://github.com/user-attachments/assets/ce41af57-c7a0-4167-b22a-f3fdcd8003e0" />
+<img width="1919" height="888" alt="image" src="https://github.com/user-attachments/assets/cd61628e-d82f-42e7-a85b-bc674a3bb30c" />
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/70c9cc47-5228-4f52-aed4-482daf0870d0" />
 
 
-<h4> S.H.E.R IS IN THE PARTNERSHIP WITH MICROSOFT FOR STARTUP FOUNDERS HUB</h4>
 
 
 <hr>
 
 <h3>Contact Information</h3>
-<p>Email: <a href="mailto:rajkumarverma70790@gmail.com">rajkumarverma70790@gmail.com</a></p>
-<p>Contact No.: +916388257447</p>
+<p>Email: <a href="mailto:rajkumarverma70790@gmail.com">rkverma.sher@gmail.com</a></p>
 <hr>
 
 <h3>Links</h3>
@@ -26,11 +34,7 @@
 
 <p>3rd Year at Indian Institute of Engineering Science and Technology</p>
 
-<ul>
-        <li><a href="https://www.kaggle.com/datasets/raj123verma/seeds-counting">Kaggle-Original Dataset</a></li>
-        <li><a href="https://play.google.com/store/apps/details?id=com.rkverma.sherapp">Google Play Store - SHER App</a></li>
-        <li><a href="https://top108.web.app/">Latest Job Updates</a></li>
-</ul>
+
 <hr>
 
 
@@ -43,39 +47,4 @@
         <li>IIT JEE-2021-98.87%tile</li>
         <li>NEST-2021-AIR-47</li>
 </ul>
-<h3>Open Source Contribution : Merged Pull Request </h3>
-<hr>
-<ol>
-<p> 
-<li>            <a href="https://github.com/CCExtractor/ultimate_alarm_clock/pull/324"> Contribution-1 (New Feature) (InProgress) </a> </li>
-<li> <a href = "https://github.com/rkverma2022/STEAM-Celestial-Satellite-tracker-in-real-time/commit/e71eca3616fad0796efc13f8af6fc283c45f7f13"> Contribution-2(bug) (done)</a></li>
- <li>           <a href="https://github.com/rkverma2022/STEAM-Celestial-Satellite-tracker-in-real-time/commit/fe1d5a883b81d192f821d34716f50aa058cdc7eb"> Contribution-3(New Feature) (InProgress)</li>
-</ol>
-</p>
-
-
-<h3>Open Source Contribution: Issue Creation</h3>
-<hr>
-<p>
-<ol>
-           <li> <a href = "https://github.com/CCExtractor/ultimate_alarm_clock/issues/321"> My First Issue Reporting (New Feature)(Done) </a></li>
-            <li><a href = "https://github.com/savitore/STEAM-Celestial-Satellite-tracker-in-real-time/issues/19"> Reporting (Bug) (Done)</a></li>
-            <li><a href = "https://github.com/savitore/STEAM-Celestial-Satellite-tracker-in-real-time/issues/20"> Reporting (Bug) (Done) </a></li>
-</ol>
-</p>
-
-<h3>Frontend Design Tools</h3>
-<ol><a href = "https://www.figma.com/design/Ce0zp48vEU2FvtEtPJ384I/Figma-basics?node-id=1669-162202&node-type=canvas&t=xY6FZbRm2p3cPuJf-0">Figma</a></ol>
-
-<h3> Frontend Tech Stack</h3>
-<ol><a href = "https://www.typescriptlang.org/docs/">TypeScript</a></ol>
-
-<h3>web performance optimization</h3>
-
-<h3>APIs</h3>
-<ol><a href="https://www.geeksforgeeks.org/fastapi-introduction/">Fast API</a>
-<a href = "MongoDB/Redis for data storage.">MongoDB</a>
-            <a href = "https://youtu.be/SpfIwlAYaKk?si=Z0PuBgnZBVY1AmDV">Postgray</a>
-</ol>
-
 
